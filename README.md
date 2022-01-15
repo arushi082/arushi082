@@ -1,5 +1,5 @@
 ### Hi there 👋
-University of Delhi student and pursuing BSc in computer science. I am enthusiastic about programming and know
+University of Delhi student and pursuing BSc(H) in computer science. I am a Data Science Enthusiast, Currently working on Data Analysis . I have worked on  Python, SQL, Python Frameworks , BI Tools . I love exploring all insights about data . Machine learning and Computer Vision is something I ll be looking forward to .
 <!--
 **arushi082/arushi082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
