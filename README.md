@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+University of Delhi student and pursuing BSc in computer science. I am enthusiastic about programming and know
 <!--
 **arushi082/arushi082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
